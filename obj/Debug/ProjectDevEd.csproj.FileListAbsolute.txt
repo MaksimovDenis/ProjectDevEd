@@ -1,0 +1,10 @@
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\bin\Debug\ProjectDevEd.exe.config
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\bin\Debug\ProjectDevEd.exe
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\bin\Debug\ProjectDevEd.pdb
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.Form1.resources
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.Properties.Resources.resources
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.exe
+C:\Users\Денис\source\repos\ProjectDevEd\ProjectDevEd\obj\Debug\ProjectDevEd.pdb
