@@ -23,25 +23,45 @@ namespace ProjectDevEd
             InitializeComponent();
         }
 
+        //ПРЯМОУГОЛЬНЫЙ ТРЕУГОЛЬНИК ПО 2-М ТОЧКМ
 
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
             if (MD)
             {
                 graphics.Clear(Color.White);
-                Point[] p = new Point[4]
+                Point[] p = new Point[3]
                 {
                     prevPoint,
                     new Point(e.X, prevPoint.Y),
                     e.Location,
-                    new Point(prevPoint.X,e.Y),
                 };
-                graphics.DrawPolygon(pen, p);
-
-                pictureBox1.Image = mainBm;
-
+                
+                    graphics.DrawPolygon(pen, p);
+                    pictureBox1.Image = mainBm;
             }
         }
+
+        //Четырёхуголник по двум точкам
+
+        //private void pictureBox1_MouseMove(object sender, MouseEventArgs e) 
+        //{
+        //    if (MD)
+        //    {
+        //        graphics.Clear(Color.White);
+        //        Point[] p = new Point[4]
+        //        {
+        //            prevPoint,
+        //            new Point(e.X, prevPoint.Y),
+        //            e.Location,
+        //            new Point(prevPoint.X,e.Y),
+        //        };
+        //        graphics.DrawPolygon(pen, p);
+
+        //        pictureBox1.Image = mainBm;
+
+        //    }
+        //}
 
         private void Form1_Load(object sender, EventArgs e)
         {
